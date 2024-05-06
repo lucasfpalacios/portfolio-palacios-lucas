@@ -78,31 +78,29 @@
     "url": "https://us.coderhouse.com/",
     "area": "Desarrollador Front End React",
     "studyType": "Curso",
-    "startDate": "2021-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2021-06-01",
+    "endDate": "2021-11-01",
+    "courses": [
+      "HTML, CSS, JavaScript, React"
+    ]
+  },
+  {
+    "institution": "Platzi",
+    "url": "https://platzi.com/login/?next=/new-home/%3F",
+    "area": "TypeScript, Vue.js, Nuxt",
+    "studyType": "Curso",
+    "startDate": "2022-09-05",
+    "endDate": "2022-08-01",
     "score": "4.0",
     "courses": [
-      "DB1101 - Basic SQL"
+      "TypeScript, Vue.js, Nuxt"
     ]
   }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "name": "First Certificate",
+    "date": "2019",
+    "issuer": "Cambridge",
+    "url": "https://candidates.cambridgeenglish.org/Members/Login.aspx?M=None"
   }],
   "skills": [
     {
