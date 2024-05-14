@@ -264,6 +264,15 @@
         "En desarrollo"
       ],
       "github": "https://github.com/lucasfpalacios/moper"
+    },
+    {
+      "name": "Goals List",
+      "isActive": false,
+      "description": "Proyecto en React Native que hice realizando un curso en esta tecnología.",
+      "highlights": [
+        "Finalizado"
+      ],
+      "github": "https://github.com/lucasfpalacios/ReactNative-goals-list"
     }
   ]
 }
