@@ -255,6 +255,15 @@
       ],
       "url": "https://lucasfpalacios.github.io/games4gamers/",
       "github": "https://github.com/lucasfpalacios/games4gamers"
+    },
+    {
+      "name": "MopEr",
+      "isActive": false,
+      "description": "Proyecto de dos Ingenieros Mecanicos en la cual estoy trabajando, se trata de una web que es un emprendimiento que brinda servicios de Ingeniería Mecánica, relacionado al diseño de piezas 3D y planimetría.",
+      "highlights": [
+        "En desarrollo"
+      ],
+      "github": "https://github.com/lucasfpalacios/moper"
     }
   ]
 }
