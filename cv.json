@@ -102,6 +102,54 @@
     "issuer": "Cambridge",
     "url": "https://candidates.cambridgeenglish.org/Members/Login.aspx?M=None"
   }],
+  "projects": [
+    {
+      "name": "Banco Municipal de Rosario",
+      "isActive": true,
+      "description": "Página oficial del Banco Municipal de la ciudad de Rosario. Este es uno de los proyectos de los cuales forme parte en Ecloud.",
+      "highlights": [
+        "Finalizado"
+      ],
+      "url": "https://www.bmros.com.ar/personas"
+    },
+    {
+      "name": "Buply",
+      "isActive": true,
+      "description": "Sitio realizado para informar sobre un proyecto de recolección de materiales reciclables para obtener beneficios, cuidar el medio ambiente y a la vez crear productos utiles para el hogar con esos materiales. Este es uno de los proyectos de los cuales forme parte en Ecloud.",
+      "highlights": [
+        "Finalizado"
+      ],
+      "url": "https://buply.ar/"
+    },
+    {
+      "name": "Games For Gamers",
+      "isActive": true,
+      "description": "Sitio con informacion sobre videojuegos y plataformas. Este proyecto lo realice como proyecto final cuando estudie en CoderHouse.",
+      "highlights": [
+        "Finalizado"
+      ],
+      "url": "https://lucasfpalacios.github.io/games4gamers/",
+      "github": "https://github.com/lucasfpalacios/games4gamers"
+    },
+    {
+      "name": "MopEr",
+      "isActive": false,
+      "description": "Proyecto de dos Ingenieros Mecanicos en la cual estoy trabajando, se trata de una web que es un emprendimiento que brinda servicios de Ingeniería Mecánica, relacionado al diseño de piezas 3D y planimetría.",
+      "highlights": [
+        "En desarrollo"
+      ],
+      "github": "https://github.com/lucasfpalacios/moper"
+    },
+    {
+      "name": "Goals List",
+      "isActive": false,
+      "description": "Proyecto en React Native que hice realizando un curso en esta tecnología.",
+      "highlights": [
+        "Finalizado"
+      ],
+      "github": "https://github.com/lucasfpalacios/ReactNative-goals-list"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
@@ -208,65 +256,6 @@
     {
       "language": "English",
       "fluency": "Advanced"
-    }
-  ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
-  "projects": [
-    {
-      "name": "Banco Municipal de Rosario",
-      "isActive": true,
-      "description": "Página oficial del Banco Municipal de la ciudad de Rosario. Este es uno de los proyectos de los cuales forme parte en Ecloud.",
-      "highlights": [
-        "Finalizado"
-      ],
-      "url": "https://www.bmros.com.ar/personas"
-    },
-    {
-      "name": "Buply",
-      "isActive": true,
-      "description": "Sitio realizado para informar sobre un proyecto de recolección de materiales reciclables para obtener beneficios, cuidar el medio ambiente y a la vez crear productos utiles para el hogar con esos materiales. Este es uno de los proyectos de los cuales forme parte en Ecloud.",
-      "highlights": [
-        "Finalizado"
-      ],
-      "url": "https://buply.ar/"
-    },
-    {
-      "name": "Games For Gamers",
-      "isActive": true,
-      "description": "Sitio con informacion sobre videojuegos y plataformas. Este proyecto lo realice como proyecto final cuando estudie en CoderHouse.",
-      "highlights": [
-        "Finalizado"
-      ],
-      "url": "https://lucasfpalacios.github.io/games4gamers/",
-      "github": "https://github.com/lucasfpalacios/games4gamers"
-    },
-    {
-      "name": "MopEr",
-      "isActive": false,
-      "description": "Proyecto de dos Ingenieros Mecanicos en la cual estoy trabajando, se trata de una web que es un emprendimiento que brinda servicios de Ingeniería Mecánica, relacionado al diseño de piezas 3D y planimetría.",
-      "highlights": [
-        "En desarrollo"
-      ],
-      "github": "https://github.com/lucasfpalacios/moper"
-    },
-    {
-      "name": "Goals List",
-      "isActive": false,
-      "description": "Proyecto en React Native que hice realizando un curso en esta tecnología.",
-      "highlights": [
-        "Finalizado"
-      ],
-      "github": "https://github.com/lucasfpalacios/ReactNative-goals-list"
     }
   ]
 }
