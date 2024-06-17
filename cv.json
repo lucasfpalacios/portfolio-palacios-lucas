@@ -247,15 +247,5 @@
         "Biblioteca", "UI"
       ]
     }
-  ],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
-    }
   ]
 }
