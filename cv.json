@@ -104,6 +104,15 @@
   }],
   "projects": [
     {
+      "name": "IRT",
+      "isActive": true,
+      "description": "Web de IRT Medicina Laboral. Este es uno de los proyectos de los cuales forme parte en Ecloud.",
+      "highlights": [
+        "Finalizado"
+      ],
+      "url": "https://web.irt.com.ar/home"
+    },
+    {
       "name": "Banco Municipal de Rosario",
       "isActive": true,
       "description": "Página oficial del Banco Municipal de la ciudad de Rosario. Este es uno de los proyectos de los cuales forme parte en Ecloud.",
