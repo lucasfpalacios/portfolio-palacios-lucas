@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Lucas Facundo Palacios",
-    "label": "Front End Developer con más de 2 años de experiencia.",
+    "label": "Desarrollador front-end con más de 2 años de experiencia.",
     "image": "foto-perfil.jpg",
     "email": "lucasfpalacios@gmail.com",
     "phone": "3416606700",
@@ -28,6 +28,12 @@
   },
   "work": [
     {
+      "name": "Fullmindtech",
+      "position": "Desarrollador front-end",
+      "startDate": "2024-07-01",
+      "summary": "Estoy realizando proyectos freelance junto a un equipo de trabajo. Me encuentro a cargo del front-end creando interfaces interactivas utilizando tecnologías como React, JavaScript, CSS"
+    },
+    {
       "name": "Sirc Iluminación & Electricidad",
       "url": "https://www.sirc.com.ar/",
       "position": "Administrativo",
@@ -36,11 +42,11 @@
     },
     {
       "name": "Ecloud",
-      "position": "Desarrollador Front end",
+      "position": "Desarrollador front-end",
       "url": "https://www.ecloud.agency/",
       "startDate": "2022-05-09",
       "endDate": "2023-06-30",
-      "summary": "Desarrollo Front-End de nuevas features, soporte a diferentes proyectos, creación de interfaces de usuarios interactivas y atractivas utilizando tecnologías como Nuxt.js, TypeScript, Css."
+      "summary": "Desarrollo Front-End de nuevas features, soporte a diferentes proyectos, creación de interfaces de usuarios interactivas y atractivas utilizando tecnologías como Nuxt.js, TypeScript, CSS."
     },
     {
       "name": "RWS",
@@ -78,7 +84,7 @@
   "education": [{
     "institution": "CoderHouse",
     "url": "https://us.coderhouse.com/",
-    "area": "Desarrollador Front End React",
+    "area": "Desarrollador front-end React",
     "studyType": "Curso",
     "startDate": "2021-06-01",
     "endDate": "2021-11-01",
