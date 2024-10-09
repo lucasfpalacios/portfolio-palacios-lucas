@@ -114,7 +114,7 @@
     {
       "name": "IRT",
       "isActive": true,
-      "description": "Web de IRT Medicina Laboral. Este es uno de los proyectos de los cuales forme parte en Ecloud.",
+      "description": "Web de IRT Medicina Laboral. Este es uno de los proyectos de los cuales forme parte en Ecloud. En este proyecto utilice tecnologías como Vue.js, Nuxt.js, TypeScript, SASS",
       "highlights": [
         "Finalizado"
       ],
@@ -123,7 +123,7 @@
     {
       "name": "Banco Municipal de Rosario",
       "isActive": true,
-      "description": "Página oficial del Banco Municipal de la ciudad de Rosario. Este es uno de los proyectos de los cuales forme parte en Ecloud.",
+      "description": "Página oficial del Banco Municipal de la ciudad de Rosario. Este es uno de los proyectos de los cuales forme parte en Ecloud. En este proyecto utilice tecnologías como Vue.js, Nuxt.js, TypeScript, SASS",
       "highlights": [
         "Finalizado"
       ],
@@ -132,7 +132,7 @@
     {
       "name": "Buply",
       "isActive": true,
-      "description": "Sitio realizado para informar sobre un proyecto de recolección de materiales reciclables para obtener beneficios, cuidar el medio ambiente y a la vez crear productos utiles para el hogar con esos materiales. Este es uno de los proyectos de los cuales forme parte en Ecloud.",
+      "description": "Sitio realizado para informar sobre un proyecto de recolección de materiales reciclables para obtener beneficios, cuidar el medio ambiente y a la vez crear productos utiles para el hogar con esos materiales. Este es uno de los proyectos de los cuales forme parte en Ecloud. En este proyecto utilice tecnologías como Vue.js, Nuxt.js, TypeScript, SASS",
       "highlights": [
         "Finalizado"
       ],
@@ -141,7 +141,7 @@
     {
       "name": "Games For Gamers",
       "isActive": true,
-      "description": "Sitio con informacion sobre videojuegos y plataformas. Este proyecto lo realice como proyecto final cuando estudie en CoderHouse.",
+      "description": "Sitio con informacion sobre videojuegos y plataformas. Este proyecto lo realice como proyecto final cuando estudie en CoderHouse. En este proyecto utilice tecnologías como HTML, JavaScript, CSS",
       "highlights": [
         "Finalizado"
       ],
@@ -151,7 +151,7 @@
     {
       "name": "MopEr",
       "isActive": false,
-      "description": "Proyecto de dos Ingenieros Mecanicos en la cual estoy trabajando, se trata de una web que es un emprendimiento que brinda servicios de Ingeniería Mecánica, relacionado al diseño de piezas 3D y planimetría.",
+      "description": "Proyecto de dos Ingenieros Mecanicos en la cual estoy trabajando, se trata de una web que es un emprendimiento que brinda servicios de Ingeniería Mecánica, relacionado al diseño de piezas 3D y planimetría. En este proyecto estoy utilizando tecnologías como React, JavaScript, CSS",
       "highlights": [
         "En desarrollo"
       ],
