@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Lucas Facundo Palacios",
-    "label": "Desarrollador front-end con más de 2 años de experiencia.",
+    "label": "Desarrollador front-end.",
     "image": "foto-perfil.jpg",
     "email": "lucasfpalacios@gmail.com",
     "phone": "3416606700",
-    "summary": "Resido en Rosario, Argentina, y cuento con más de 2 años de experiencia en desarrollo front-end. He trabajado en Ecloud, participando en diversos proyectos donde he sido responsable de implementar tareas de desarrollo front-end basadas en diseños creados por el equipo de UX/UI. Durante mi trayectoria, he utilizado tecnologías como Nuxt.js, un framework para el desarrollo de aplicaciones web con Vue.js, así como TypeScript y Sass. Mi enfoque ha sido siempre en la creación de interfaces de usuario eficientes y atractivas, asegurando una experiencia de usuario óptima.",
+    "summary": "Resido en Rosario, Argentina, y cuento con 2 años de experiencia en desarrollo front-end. He trabajado en Ecloud, participando en diversos proyectos donde he sido responsable de implementar tareas de desarrollo front-end basadas en diseños creados por el equipo de UX/UI. Durante mi trayectoria, he utilizado tecnologías como Nuxt.js, un framework para el desarrollo de aplicaciones web con Vue.js, así como TypeScript y Sass. Mi enfoque ha sido siempre en la creación de interfaces de usuario eficientes y atractivas, asegurando una experiencia de usuario óptima. Hoy me encuentro trabajando en FullMindTech realizando proyectos freelance utilizando React.",
     "location": {
       "address": "",
       "postalCode": "2000",
@@ -29,16 +29,17 @@
   "work": [
     {
       "name": "Fullmindtech",
+      "url": "https://fullmindtech.com.ar/",
       "position": "Desarrollador front-end",
       "startDate": "2024-07-01",
-      "summary": "Estoy realizando proyectos freelance junto a un equipo de trabajo. Me encuentro a cargo del front-end creando interfaces interactivas utilizando tecnologías como React, JavaScript, CSS"
+      "summary": "Me encuentro realizando proyectos freelance junto a un equipo de trabajo. Realizo tareas de front-end creando interfaces interactivas utilizando tecnologías como React, JavaScript, CSS."
     },
     {
       "name": "Sirc Iluminación & Electricidad",
       "url": "https://www.sirc.com.ar/",
       "position": "Administrativo",
       "startDate": "2024-04-17",
-      "summary": "Me encuentro a cargo de llevar adelante el proyecto de merjora de la web y las redes. Manejo de Wordpress y Figma para modificaciones en la web."
+      "summary": "Me encuentro a cargo de llevar adelante el proyecto de merjora de la web y redes sociales. Manejo de Wordpress y Figma para modificaciones en la web. Coordinación de publicidades y eventos."
     },
     {
       "name": "Ecloud",
@@ -103,6 +104,14 @@
     "courses": [
       "TypeScript, Vue.js, Nuxt"
     ]
+  },
+  {
+    "institution": "Fceia (UNR)",
+    "url": "https://web.fceia.unr.edu.ar/es/",
+    "area": "Ingeniería Industrial",
+    "studyType": "Universidad",
+    "startDate": "2014-03-03",
+    "endDate": "2016-08-01"
   }],
   "certificates": [{
     "name": "First Certificate",
