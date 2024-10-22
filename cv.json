@@ -5,7 +5,11 @@
     "image": "foto-perfil.jpg",
     "email": "lucasfpalacios@gmail.com",
     "phone": "3416606700",
+<<<<<<< HEAD
     "summary": "Resido en Rosario, Argentina, y cuento con 2 años de experiencia en desarrollo front-end. He trabajado en Ecloud, participando en diversos proyectos donde he sido responsable de implementar tareas de desarrollo front-end basadas en diseños creados por el equipo de UX/UI. Durante mi trayectoria, he utilizado tecnologías como Nuxt.js, un framework para el desarrollo de aplicaciones web con Vue.js, así como TypeScript y Sass. Mi enfoque ha sido siempre en la creación de interfaces de usuario eficientes y atractivas, asegurando una experiencia de usuario óptima. Hoy me encuentro trabajando en FullMindTech realizando proyectos freelance utilizando React.",
+=======
+    "summary": "Resido en Rosario, Argentina, y cuento con más de 2 años de experiencia en desarrollo front-end. He trabajado en Ecloud, participando en diversos proyectos donde he sido responsable de implementar tareas de desarrollo front-end basadas en diseños creados por el equipo de UX/UI. Durante mi trayectoria, he utilizado tecnologías como Nuxt.js, un framework para el desarrollo de aplicaciones web con Vue.js, así como TypeScript y Sass. Mi enfoque ha sido siempre en la creación de interfaces de usuario eficientes y atractivas, asegurando una experiencia de usuario óptima. Hoy me encuentro trabajando en FullMindTech realizando proyectos freelance utilizando React.",
+>>>>>>> 4210960315ea1f9e4bfeead10442bc2fca53cc3f
     "location": {
       "address": "",
       "postalCode": "2000",
@@ -104,14 +108,24 @@
     "courses": [
       "TypeScript, Vue.js, Nuxt"
     ]
+<<<<<<< HEAD
   },
   {
     "institution": "Fceia (UNR)",
+=======
+  }
+  {
+    "institution": "Fceia(UNR)",
+>>>>>>> 4210960315ea1f9e4bfeead10442bc2fca53cc3f
     "url": "https://web.fceia.unr.edu.ar/es/",
     "area": "Ingeniería Industrial",
     "studyType": "Universidad",
     "startDate": "2014-03-03",
+<<<<<<< HEAD
     "endDate": "2016-08-01"
+=======
+    "endDate": "2016-08-01",
+>>>>>>> 4210960315ea1f9e4bfeead10442bc2fca53cc3f
   }],
   "certificates": [{
     "name": "First Certificate",
