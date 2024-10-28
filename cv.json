@@ -196,33 +196,57 @@
       ]
     },
     {
-      "name": "Nuxt",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Framework", "Diseño Responsive"
-      ]
-    },
-    {
       "name": "TypeScript",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript"
       ]
     },
     {
-      "name": "Python",
+      "name": "Astro",
       "keywords": [
-        "Desarrollo Web"
+        "Desarrollo Web", "Frontend", "Framework", "Diseño Responsive"
       ]
     },
     {
-      "name": "Docker",
+      "name": "Vue.js",
       "keywords": [
-        "Desarrollo Web"
+        "Desarrollo Web", "Frontend", "Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Nuxt",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Framework", "Diseño Responsive"
       ]
     },
     {
       "name": "React",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "React Native",
+      "keywords": [
+        "Mobile WebApps", "Frontend", "JavaScript", "UI"
+      ]
+    },
+    {
+      "name": "Python",
+      "keywords": [
+        "Desarrollo Web", "POO", "Backend"
+      ]
+    },
+    {
+      "name": "Docker",
+      "keywords": [
+        "Desarrollo Web"
       ]
     },
     {
@@ -238,21 +262,9 @@
       ]
     },
     {
-      "name": "React Native",
+      "name": "Postman",
       "keywords": [
-        "Mobile WebApps", "Frontend", "JavaScript", "UI"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "Astro",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Framework", "Diseño Responsive"
+        "Api"
       ]
     },
     {
