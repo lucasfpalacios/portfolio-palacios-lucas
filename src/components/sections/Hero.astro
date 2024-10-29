@@ -39,7 +39,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
           email && (
             <a
               href={`mailto:${email}`}
-              title={`Enviar un correo electrónico a ${name} al correo ${email}`}
+              title={`Send me an email to ${email}`}
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -51,7 +51,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
           phone && (
             <a
               href={`tel:${phone}`}
-              title={`Llamar por teléfono a ${name} al número ${phone}`}
+              title={`Contact me at ${phone}`}
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -66,7 +66,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
             return (
               <a
                 href={url}
-                title={`Visitar el perfil de ${name} en ${network}`}
+                title={`Check my LinkedIn profile ${network}`}
                 target="_blank"
                 rel="noopener noreferrer"
               >
