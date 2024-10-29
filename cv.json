@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Lucas Facundo Palacios",
-    "label": "Desarrollador front-end.",
+    "label": "Front-end Developer.",
     "image": "foto-perfil.jpg",
     "email": "lucasfpalacios@gmail.com",
     "phone": "3416606700",
-    "summary": "Resido en Rosario, Argentina, y cuento con 2 años de experiencia en desarrollo front-end. He trabajado en Ecloud, participando en diversos proyectos donde he sido responsable de implementar tareas de desarrollo front-end basadas en diseños creados por el equipo de UX/UI. Durante mi trayectoria, he utilizado tecnologías como Nuxt.js, un framework para el desarrollo de aplicaciones web con Vue.js, así como TypeScript y Sass. Mi enfoque ha sido siempre en la creación de interfaces de usuario eficientes y atractivas, asegurando una experiencia de usuario óptima. Hoy me encuentro trabajando en FullMindTech realizando proyectos freelance utilizando React.",
+    "summary": "I live in Rosario, Argentina, and have 2 years of experience in front-end development. I worked at Ecloud, participating in various projects where I implemented front-end development tasks based on designs created by the UX/UI team. I have used technologies such as Vue.js, TypeScript, and Sass. I have always focused on creating efficient and appealing user interfaces, ensuring an optimal user experience. Today, I am working at FullMindTech doing freelance projects using React.",
     "location": {
       "address": "",
       "postalCode": "2000",
@@ -32,22 +32,22 @@
       "url": "https://fullmindtech.com.ar/",
       "position": "Desarrollador front-end",
       "startDate": "2024-07-01",
-      "summary": "Me encuentro realizando proyectos freelance junto a un equipo de trabajo. Realizo tareas de front-end creando interfaces interactivas utilizando tecnologías como React, JavaScript, CSS."
+      "summary": "I am working on freelance projects with a team. I perform front-end tasks, creating interactive interfaces using technologies such as React, JavaScript, and CSS."
     },
     {
       "name": "Sirc Iluminación & Electricidad",
       "url": "https://www.sirc.com.ar/",
-      "position": "Administrativo",
+      "position": "Administrative",
       "startDate": "2024-04-17",
-      "summary": "Me encuentro a cargo de llevar adelante el proyecto de merjora de la web y redes sociales. Manejo de Wordpress y Figma para modificaciones en la web. Coordinación de publicidades y eventos."
+      "summary": "I am in charge of carrying out the project of improving the website and social networks. Wordpress and Figma management for web modifications. Coordination of advertising and events."
     },
     {
       "name": "Ecloud",
-      "position": "Desarrollador front-end",
+      "position": "Front-end Developer",
       "url": "https://www.ecloud.agency/",
       "startDate": "2022-05-09",
       "endDate": "2023-06-30",
-      "summary": "Desarrollo Front-End de nuevas features, soporte a diferentes proyectos, creación de interfaces de usuarios interactivas y atractivas utilizando tecnologías como Nuxt.js, TypeScript, CSS."
+      "summary": "Development of new features, support for different projects, creation of interactive and attractive user interfaces using technologies such as Nuxt.js, TypeScript, CSS."
     },
     {
       "name": "RWS",
@@ -55,29 +55,29 @@
       "url": "https://www.rws.com/es/",
       "startDate": "2020-01-03",
       "endDate": "2022-05-06",
-      "summary": "Control de traducciones para la implementación de las mismas. Implementación y corrección de bugs."
+      "summary": "Translation control for implementation. Bug fixing and implementation."
     },
     {
       "name": "Patagonia Brewing co. - Pub Oroño",
-      "position": "Cocinero",
+      "position": "Cook",
       "startDate": "2018-11-12",
       "endDate": "2020-01-01"
     },
     {
       "name": "Emico S.A.",
-      "position": "Administrativo de compras",
+      "position": "Purchasing Administrative",
       "startDate": "2016-09-12",
       "endDate": "2018-10-31"
     },
     {
       "name": "SIOS repuestos",
-      "position": "Administrativo",
+      "position": "Administrative",
       "startDate": "2014-06-01",
       "endDate": "2016-09-11"
     },
     {
       "name": "Matha Cura catering - eventos",
-      "position": "Cocinero",
+      "position": "Cook",
       "startDate": "2011-08-15",
       "endDate": "2013-12-20"
     }
@@ -85,8 +85,8 @@
   "education": [{
     "institution": "CoderHouse",
     "url": "https://us.coderhouse.com/",
-    "area": "Desarrollador front-end React",
-    "studyType": "Curso",
+    "area": "Front-end Developer React",
+    "studyType": "Course",
     "startDate": "2021-06-01",
     "endDate": "2021-11-01",
     "courses": [
