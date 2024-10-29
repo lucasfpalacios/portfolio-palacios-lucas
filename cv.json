@@ -39,7 +39,7 @@
       "url": "https://www.sirc.com.ar/",
       "position": "Administrative",
       "startDate": "2024-04-17",
-      "summary": "I am in charge of carrying out the project of improving the website and social networks. Wordpress and Figma management for web modifications. Coordination of advertising and events."
+      "summary": "I am in charge of carrying out the project of improving the website and social networks. WordPress and Figma management for web modifications. Coordination of advertising and events."
     },
     {
       "name": "Ecloud",
@@ -58,7 +58,7 @@
       "summary": "Translation control for implementation. Bug fixing and implementation."
     },
     {
-      "name": "Patagonia Brewing co. - Pub Oroño",
+      "name": "Patagonia Brewing Co. - Pub Oroño",
       "position": "Cook",
       "startDate": "2018-11-12",
       "endDate": "2020-01-01"
@@ -96,20 +96,19 @@
   {
     "institution": "Platzi",
     "url": "https://platzi.com/login/?next=/new-home/%3F",
-    "area": "TypeScript, Vue.js, Nuxt",
-    "studyType": "Curso",
+    "area": "JavaScrit, TypeScript, Vue.js, Nuxt",
+    "studyType": "Course",
     "startDate": "2022-09-05",
     "endDate": "2022-08-01",
-    "score": "4.0",
     "courses": [
-      "TypeScript, Vue.js, Nuxt"
+      "JavaScript, TypeScript, Vue.js, Nuxt"
     ]
   },
   {
     "institution": "Fceia (UNR)",
     "url": "https://web.fceia.unr.edu.ar/es/",
-    "area": "Ingeniería Industrial",
-    "studyType": "Universidad",
+    "area": "Industrial Engineering",
+    "studyType": "University",
     "startDate": "2014-03-03",
     "endDate": "2016-08-01"
   }],
@@ -123,36 +122,36 @@
     {
       "name": "IRT",
       "isActive": true,
-      "description": "Web de IRT Medicina Laboral. Este es uno de los proyectos de los cuales forme parte en Ecloud. En este proyecto utilice tecnologías como Vue.js, Nuxt, TypeScript, SASS",
+      "description": "IRT Medicina Laboral Website. This is one of the projects in which I have been part of Ecloud. In this project, I used technologies such as Vue.js, Nuxt, TypeScript, and SASS.",
       "highlights": [
-        "Finalizado"
+        "Completed"
       ],
       "url": "https://web.irt.com.ar/home"
     },
     {
       "name": "Banco Municipal de Rosario",
       "isActive": true,
-      "description": "Página oficial del Banco Municipal de la ciudad de Rosario. Este es uno de los proyectos de los cuales forme parte en Ecloud. En este proyecto utilice tecnologías como Vue.js, Nuxt, TypeScript, SASS",
+      "description": "Official website of the Banco Municipal de Rosario. In this project, I used technologies such as Vue.js, Nuxt, TypeScript, and SASS.",
       "highlights": [
-        "Finalizado"
+        "Completed"
       ],
       "url": "https://www.bmros.com.ar/personas"
     },
     {
       "name": "Buply",
       "isActive": true,
-      "description": "Sitio realizado para informar sobre un proyecto de recolección de materiales reciclables para obtener beneficios, cuidar el medio ambiente y a la vez crear productos utiles para el hogar con esos materiales. Este es uno de los proyectos de los cuales forme parte en Ecloud. En este proyecto utilice tecnologías como Vue.js, Nuxt, TypeScript, SASS",
+      "description": "Website to inform about a recyclable materials collection project to gain benefits, protect the environment, and create useful household products with these materials. I used technologies such as Vue.js, Nuxt, TypeScript, and SASS.",
       "highlights": [
-        "Finalizado"
+        "Completed"
       ],
       "url": "https://buply.ar/"
     },
     {
       "name": "Games For Gamers",
       "isActive": true,
-      "description": "Sitio con informacion sobre videojuegos y plataformas. Este proyecto lo realice como proyecto final cuando estudie en CoderHouse. En este proyecto utilice tecnologías como HTML, JavaScript, CSS",
+      "description": "Website with information about video games and platforms. I completed this project as my final project when I studied at CoderHouse. In this project, I used technologies such as HTML, JavaScript, and CSS.",
       "highlights": [
-        "Finalizado"
+        "Completed"
       ],
       "url": "https://lucasfpalacios.github.io/games4gamers/",
       "github": "https://github.com/lucasfpalacios/games4gamers"
@@ -160,18 +159,18 @@
     {
       "name": "MopEr",
       "isActive": false,
-      "description": "Proyecto de dos Ingenieros Mecanicos en la cual estoy trabajando, se trata de una web que es un emprendimiento que brinda servicios de Ingeniería Mecánica, relacionado al diseño de piezas 3D y planimetría. En este proyecto estoy utilizando tecnologías como React, Next.js, TypeScript, Tailwind CSS",
+      "description": "Project for two Mechanical Engineers. I am working on a website for a business that provides Mechanical Engineering services related to 3D parts design and drafting. In this project, I am using technologies such as React, Next.js, TypeScript, Tailwind CSS.",
       "highlights": [
-        "En desarrollo"
+        "In progress"
       ],
       "github": "https://github.com/lucasfpalacios/moper"
     },
     {
       "name": "Goals List",
       "isActive": false,
-      "description": "Proyecto en React Native que hice realizando un curso en esta tecnología.",
+      "description": "Project in React Native that I completed while taking a course on this technology.",
       "highlights": [
-        "Finalizado"
+        "Completed"
       ],
       "github": "https://github.com/lucasfpalacios/ReactNative-goals-list"
     }
