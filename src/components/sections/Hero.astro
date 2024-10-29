@@ -48,7 +48,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
           )
         }
         {
-          Whatsapp && (
+          phone && (
             <a
               href={`https://wa.me/${phone}`}
               title={`Contact me at ${phone}`}
