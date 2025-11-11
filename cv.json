@@ -30,16 +30,25 @@
     {
       "name": "Fullmindtech",
       "url": "https://fullmindtech.com.ar/",
-      "position": "Front-end Developer",
+      "position": "Project Manager",
+      "startDate": "2025-03-01",
+      "summary": "As a Project Manager, I coordinate and organize the team to make sure each project runs smoothly from start to finish. I take care of task planning, communication between clients and developers, and keep everything aligned with our goals. My focus is on maintaining an efficient workflow and delivering high-quality results on time."
+    },
+    {
+      "name": "Fullmindtech",
+      "url": "https://fullmindtech.com.ar/",
+      "position": "Front-end Developer - Project Manager",
       "startDate": "2024-07-01",
-      "summary": "I am working on freelance projects with a team. I perform front-end tasks, creating interactive interfaces using technologies such as React, JavaScript, and CSS."
+      "endDate": "2025-02-28",
+      "summary": "I worked on freelance projects with Fullmindtech team, performing front-end tasks and creating interactive interfaces using technologies such as React, JavaScript, and CSS."
     },
     {
       "name": "Sirc Iluminación & Electricidad",
       "url": "https://www.sirc.com.ar/",
       "position": "Administrative",
       "startDate": "2024-04-17",
-      "summary": "I am in charge of carrying out the project of improving the website and social networks. WordPress and Figma management for web modifications. Coordination of advertising and events."
+      "endDate": "2025-02-28",
+      "summary": "I was in charge of carrying out the project to improve the website and social networks. Managed WordPress and Figma for web modifications, and coordinated advertising and events."
     },
     {
       "name": "Ecloud",
@@ -82,7 +91,18 @@
       "endDate": "2013-12-20"
     }
   ],
-  "education": [{
+  "education": [
+    {
+    "institution": "Fceia (UNR)",
+    "url": "https://web.fceia.unr.edu.ar/es/",
+    "area": "Technical Degree in Artificial Intelligence",
+    "studyType": "University",
+    "startDate": "2025-03-01",
+    "courses": [
+      "Python, Sql server, Bash, AI, Machine Learning, Deep Learning, Data Science, Linux"
+    ]
+  },
+    {
     "institution": "CoderHouse",
     "url": "https://us.coderhouse.com/",
     "area": "Front-end Developer React",
@@ -119,6 +139,15 @@
     "url": "https://candidates.cambridgeenglish.org/Members/Login.aspx?M=None"
   }],
   "projects": [
+    {
+      "name": "Bash Project",
+      "isActive": false,
+      "description": "A Bash automation project focused on improving workflow efficiency through custom scripts. This project allowed me to strengthen my skills in scripting, process automation, and system management using Bash.",
+      "highlights": [
+        "Completed"
+      ],
+      "url": "https://github.com/lucasfpalacios/bash-project"
+    },
     {
       "name": "IRT",
       "isActive": true,
@@ -177,15 +206,33 @@
   ],
   "skills": [
     {
-      "name": "HTML",
+      "name": "Python",
       "keywords": [
-        "Desarrollo Web", "Frontend"
+        "Desarrollo Web", "POO", "Backend"
       ]
     },
     {
-      "name": "CSS",
+      "name": "Bash",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "Scripting", "Automatización", "DevOps"
+      ]
+    },
+    {
+      "name": "SQL Server",
+      "keywords": [
+        "Bases de Datos", "Consultas SQL", "Modelado de Datos"
+      ]
+    },
+    {
+      "name": "Docker",
+      "keywords": [
+        "Desarrollo Web"
+      ]
+    },
+    {
+      "name": "Git",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
       ]
     },
     {
@@ -237,33 +284,33 @@
       ]
     },
     {
-      "name": "Python",
-      "keywords": [
-        "Desarrollo Web", "POO", "Backend"
-      ]
-    },
-    {
-      "name": "Docker",
-      "keywords": [
-        "Desarrollo Web"
-      ]
-    },
-    {
-      "name": "Git",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
-    },
-    {
       "name": "GitHub",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
       ]
     },
     {
+      "name": "GitLab",
+      "keywords": [
+        "Control de Versiones", "CI/CD", "DevOps"
+      ]
+    },
+    {
       "name": "Postman",
       "keywords": [
         "Api"
+      ]
+    },
+    {
+      "name": "HTML",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
     },
     {
